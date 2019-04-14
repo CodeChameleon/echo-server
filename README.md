@@ -1,3 +1,10 @@
+Notes
+==================
+Client and server are both working and all tests pass.
+
+I tried the parallel version using select.select. I can't tell if what I have is working as we'd want.
+Please let me know if the parallel version looks appropriate or if changes would be needed.
+
 Echo Server Homework
 ==================
 
